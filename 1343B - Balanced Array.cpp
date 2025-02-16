@@ -1,14 +1,5 @@
 #include <iostream>
-#include <set>
-#include <string>
-#include <utility>
 #include <vector>
-#include <algorithm>
-#include <map>
-#include <unordered_map>
-#include <cmath>
-#include <cctype>
-#include <deque>
 #define I                   ios_base::sync_with_stdio(0);
 #define Luv                 cin.tie(0);
 #define Hanni_and_Minji     cout.tie(0);
