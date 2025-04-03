@@ -38,7 +38,7 @@ int main () {
         ll count = 0;
 
         for (int i = 0; i < n; i++) {
-            // idk why the output isn't correct when i used ordered set as a pointer
+            // idk why the output is incorrect when i'm using ordered set as a pointer
             // ll l = left - a[i];
             // ll r = right - a[i];
             // count += (s.order_of_key(r + 1) - s.order_of_key(l));
